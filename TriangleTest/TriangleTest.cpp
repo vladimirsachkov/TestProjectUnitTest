@@ -9,7 +9,6 @@ namespace TriangleTest
 {
 	TEST_CLASS(TriangleTest)
 	{
-	public:B:\mtusi\AnotherProject\TestPr
 		
 		TEST_METHOD(GetPTest)
 		{
